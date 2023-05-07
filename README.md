@@ -1,4 +1,4 @@
-# Exploring the Evolution of Electric Vehicle
+# Exploring Electric Vehicle Trends in The US
 
 ### Project Overview 
 
@@ -10,14 +10,20 @@ I tried to find the insights with the help of MySQL using a kaggle dataset about
 * City which has the highest number of electric vehicle registrations
 * Average number of electric vehicles registered per year
 * Most popular electric vehicle brand in the US
-* Average age of electric vehicles registered in the US
 * Top 5 Best selling electric vehicle model in the US
-* States which have seen the highest growth in electric vehicle registrations in the last 5 years
-* Market share of Brands in US electric vehicle maket
-* Best Selling electric vehicle model is the US
+
 
 
 The project aims to present the findings in visually appealing manner through charts, graphs and dashboard.
 
 
 ### Key Findings 
+
+* The market of Electric vehicles grows 114575.00 % from 2010 to 2022
+* The total numer of registered electric vehicles are 124716
+* Seattle has the highest number of electric vehicle registrations
+* TESLA is the most popular Electric vehicle brand in the US whih captures 45.8% Market
+* Top 5 bestselling Electric vehicle models are MODEL 3, MODEL Y, LEAF, MODEL S, BOLT
+* 77.19% are the Battery Electric Vehicle & 22.81% are plug in hybrid electric vehicle 
+* The average range of the Battery electric vehicle are higher 
+
