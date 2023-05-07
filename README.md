@@ -26,4 +26,5 @@ The project aims to present the findings in visually appealing manner through ch
 * Top 5 bestselling Electric vehicle models are MODEL 3, MODEL Y, LEAF, MODEL S, BOLT
 * 77.19% are the Battery Electric Vehicle & 22.81% are plug in hybrid electric vehicle 
 * The average range of the Battery electric vehicle are higher 
+* The average range of elecrtic vehicles are 79.47
 
