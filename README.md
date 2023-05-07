@@ -2,7 +2,7 @@
 
 ### Project Overview 
 
-The "Exploring the Evolution of Electric Vehicle" project aims to provide a comprehensive analysis of the growth and trends in the electric vehicle (EV) market.
+The "Exploring Electric Vehicle Trends in The US" project aims to provide a comprehensive analysis of the growth and trends in the electric vehicle (EV) market.
 
 I tried to find the insights with the help of MySQL using a kaggle dataset about electric_vehicle_population, some of the key questions that i tried to answer are:
 
