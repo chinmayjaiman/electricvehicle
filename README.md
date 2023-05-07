@@ -22,7 +22,7 @@ The project aims to present the findings in visually appealing manner through ch
 * The market of Electric vehicles grows 114575.00 % from 2010 to 2022
 * The total numer of registered electric vehicles are 124716
 * Seattle has the highest number of electric vehicle registrations
-* TESLA is the most popular Electric vehicle brand in the US whih captures 45.8% Market
+* TESLA is the most popular Electric vehicle brand in the US whcih captures 45.8% Market
 * Top 5 bestselling Electric vehicle models are MODEL 3, MODEL Y, LEAF, MODEL S, BOLT
 * 77.19% are the Battery Electric Vehicle & 22.81% are plug in hybrid electric vehicle 
 * The average range of the Battery electric vehicle are higher 
